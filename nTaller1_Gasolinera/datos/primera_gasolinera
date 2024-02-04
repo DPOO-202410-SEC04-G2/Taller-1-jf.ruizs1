@@ -1,0 +1,13 @@
+tipo:Extra:10200:10.0
+tipo:Corriente:8500:100.0
+tipo:Diesel:12300:140.0
+tipo:Normal:11400:200.0
+surtidor:Laura:Extra:0.0:Corriente:0.0:Diesel:0.0:Normal:0.0
+surtidor:Santiago:Extra:0.0:Corriente:0.0:Diesel:0.0:Normal:0.0
+surtidor:Santiago:Extra:10.0:Corriente:0.0:Diesel:0.0:Normal:0.0
+surtidor:Luis:Extra:0.0:Corriente:0.0:Diesel:0.0:Normal:0.0
+empleado:Santiago:102000
+empleado:Laura:0
+empleado:Luis:0
+empleado:Natalia:0
+empleado:Juan:0
